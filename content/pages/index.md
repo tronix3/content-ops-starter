@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Website is under construction
+      text: Gundrum Tax Services
       color: text-dark
       type: TitleBlock
     subtitle: Give us a call or send us an email for a consultation
