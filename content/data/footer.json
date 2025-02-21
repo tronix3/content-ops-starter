@@ -6,16 +6,7 @@
     },
     "text": "Tax preparation and filing: Right the first time and always on time!\n",
     "socialLinks": [],
-    "legalLinks": [
-        {
-            "label": "Terms",
-            "url": "/",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
-        }
-    ],
+    "legalLinks": [],
     "copyrightText": "",
     "colors": "bg-dark-fg-light",
     "type": "Footer"
