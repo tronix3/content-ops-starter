@@ -83,7 +83,7 @@
         },
         {
             "label": "Email Us",
-            "url": "/",
+            "url": "mailto:bwgundrum01@gmail.com",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "primary",
