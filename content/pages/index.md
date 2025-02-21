@@ -9,9 +9,9 @@ sections:
       type: TitleBlock
     subtitle: Give us a call or send us an email for a consultation
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      Thanks for visiting. We are working on the website and will have it up
+      soon. Shoot us an [email ](mailto:bwgundrum01@gmail.com)or give us a call
+      in the meantime. 
     actions:
       - label: Get started
         altText: ''
