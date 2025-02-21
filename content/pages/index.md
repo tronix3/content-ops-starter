@@ -7,7 +7,7 @@ sections:
       text: Gundrum Tax Services
       color: text-dark
       type: TitleBlock
-    subtitle: Give us a call or send us an email for a consultation
+    subtitle: Under Construction
     text: >
       Thanks for visiting. We are working on the website and will have it up
       soon. Shoot us an [email ](mailto:bwgundrum01@gmail.com)or give us a call
